@@ -1,11 +1,11 @@
 <hr>
-<h1 align="center"><strong> ✨ Welcome to My Profile ✨</strong></h1>
+<p align="center"><img src="https://user-images.githubusercontent.com/113167691/200605233-37879070-4515-429b-92c2-2bfd3160e5e0.png"</p>
 <hr>
 <p align="center">
 <img src="https://i.pinimg.com/originals/83/1e/00/831e006f229fb7c51763fdb35b08a40b.gif">
 </p>
 <hr>
-<h2 align="center"><strong>✨ About me ✨</strong></h2>
+<p align="center"><img src="https://user-images.githubusercontent.com/113167691/200605947-c84deca9-5ef8-4b05-bb27-4ab69d18ee49.png"></p>
 <hr>
 
 <p align="center">
@@ -15,7 +15,7 @@ I'm Cathy, i'm a web developer and i'm passionate about new technologies
 
 
 <hr>
-<h2 align="center"><strong> ✨ Hobbies ✨ </strong></h2>
+<p align="center"><img src="https://user-images.githubusercontent.com/113167691/200606111-fcf1ec64-45e4-4b52-b656-18e8bbcc64ce.png"></p>
 <hr>
 
 - 🤞 Anime/manga 
@@ -25,7 +25,7 @@ I'm Cathy, i'm a web developer and i'm passionate about new technologies
 <hr>
 
 
-<h2 align="center"><strong><strong> ✨ Languages ✨ </strong></h2>
+<p align="center"><img src="https://user-images.githubusercontent.com/113167691/200605725-ec6bc0db-eb89-4756-b2b6-08d02defa9ba.png"></p>
 <hr>
 
 
@@ -45,7 +45,7 @@ I'm Cathy, i'm a web developer and i'm passionate about new technologies
 
 <hr>
 
-<h2 align="center"><strong><strong>✨ Contact me ✨</strong></h2>
+<p align="center"><img src="https://user-images.githubusercontent.com/113167691/200605470-b76cf250-7acc-4b5a-88c3-bcfdde6a7325.png"></p>
 <hr>
 <p align="center">
 
