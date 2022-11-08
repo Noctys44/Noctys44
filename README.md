@@ -5,7 +5,7 @@
 <img src="https://i.pinimg.com/originals/83/1e/00/831e006f229fb7c51763fdb35b08a40b.gif">
 </p>
 <hr>
-<p align="center"><img src="https://user-images.githubusercontent.com/113167691/200605947-c84deca9-5ef8-4b05-bb27-4ab69d18ee49.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/113167691/200608379-84d7ac26-1e23-4a41-8379-028db8942ccc.png"></p>
 <hr>
 
 <p align="center">
