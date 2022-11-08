@@ -10,7 +10,7 @@
 
 
 <p align="center">
-I'm Cathy,  i'm 33 years old and i'm passionate about new technologies
+I'm Cathy, i'm a web developer and i'm passionate about new technologies
 </p>
 <hr>
 
@@ -19,9 +19,9 @@ I'm Cathy,  i'm 33 years old and i'm passionate about new technologies
 <p align="center">
 <strong> ✨ Hobbies ✨ </strong>
 
-- 🤞 Anime/manga
-- 🎮 Video games
-- 🏓 Table Tennis
+- 🤞 Anime/manga 
+- 🎮 Video games 
+- 🏓 Table Tennis 
 </p>
 
 <hr>
