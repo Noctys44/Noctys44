@@ -52,7 +52,7 @@ I'm Cathy, i'm a web developer and i'm passionate about new technologies
 <p align="center">
 
 - 📫 Mail : cathy.derocquencourt@gmail.com
--  <a href="https://www.linkedin.com/in/cathy-derocquencourt-6b1313b8/"> <img width="15px" height="auto" src="https://user-images.githubusercontent.com/113167691/200583736-b05fb444-e2eb-4328-b4d2-7b7278ee7e19.png"> Linkedin  </a>
+-  <a href="https://www.linkedin.com/in/cathy-derocquencourt-6b1313b8/"><img width="15px" height="auto" src="https://user-images.githubusercontent.com/113167691/200583736-b05fb444-e2eb-4328-b4d2-7b7278ee7e19.png">Linkedin</a>
 
 </p>
 
