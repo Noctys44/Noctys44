@@ -34,7 +34,7 @@ I'm Cathy, i'm a web developer and i'm passionate about new technologies
 <strong>Front-End :</strong>
 
 - <img width="15px" height="auto" src="https://user-images.githubusercontent.com/113167691/200582731-68d1165a-b2f9-4a73-b533-0617b1bf1601.png"> HTML
-- <img width="15px" height="auto" src="https://user-images.githubusercontent.com/113167691/200583080-c6c93e79-772d-4a0b-b881-5e3c82496a70.png"> CSS
+- <img width="15px" height="auto" src="https://user-images.githubusercontent.com/113167691/200583080-c6c93e79-772d-4a0b-b881-5e3c82496a70.png"> CSS 
 - <img width="15px" height="auto" src="https://user-images.githubusercontent.com/113167691/200583189-e7bc834d-e4e1-4273-8d69-ee50d51e4d2e.png"> JavaScript
 </p>
 <p align="center">
@@ -52,7 +52,7 @@ I'm Cathy, i'm a web developer and i'm passionate about new technologies
 <p align="center">
 
 - 📫 Mail : cathy.derocquencourt@gmail.com
--  <img width="15px" height="auto" src="https://user-images.githubusercontent.com/113167691/200583736-b05fb444-e2eb-4328-b4d2-7b7278ee7e19.png"> Linkedin : https://www.linkedin.com/in/cathy-derocquencourt-6b1313b8/
+-  <a href="https://www.linkedin.com/in/cathy-derocquencourt-6b1313b8/"> <img width="15px" height="auto" src="https://user-images.githubusercontent.com/113167691/200583736-b05fb444-e2eb-4328-b4d2-7b7278ee7e19.png"> Linkedin  </a>
 
 </p>
 
