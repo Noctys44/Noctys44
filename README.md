@@ -41,7 +41,7 @@ I'm Cathy, i'm a web developer and i'm passionate about new technologies
 
 <strong>Back-end :</strong>
 
-- <img width="20px" height="auto" src="https://user-images.githubusercontent.com/113167691/200583288-a713023f-42f0-4425-87bf-fcd3bab80c9d.png"> NodeJS
+- <img width="20px" height="auto" src="https://user-images.githubusercontent.com/113167691/200589618-e1876c62-af97-4131-b8f3-855970d9ee07.png"> NodeJS
 - <img width="20px" height="auto" src="https://user-images.githubusercontent.com/113167691/200583365-e320c399-530f-40af-87d8-c3a5e1b8784a.png"> PHP
 </p>
 
